@@ -2,8 +2,8 @@ package com.bridgelabz;
 
 public class DispalyBoard {
 
-    public static final int ROWS = 10;
-    public static final int COLS = 10;
+    public static final int ROWS = 3;
+    public static final int COLS = 3;
 
     public DisplayBoard() {
     int  board = new board[ROWS][COLS];
